@@ -20,3 +20,6 @@ Este é um projeto simples em C que simula uma corrida entre várias threads. Ca
 2. Compile o programa:
    ```bash
    make
+3. Executar:
+    ```bash
+    make run
